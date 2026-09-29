@@ -1,74 +1,57 @@
 # Research Paper Workflow Skill
 
-A reusable workflow for high-stakes scientific paper work: research framing, contribution auditing, experiment design, manuscript review, reviewer response, revision auditing, terminology/provenance control, and final submission.
+A compact, reusable workflow for scientific-paper revision.
 
-The repository is designed for use with AI coding/research agents, but the workflow is intentionally model-agnostic.
+The current repository deliberately focuses on **peer-review revision first**. The default entry point is:
 
-## Core idea
+> **`SKILL.md`**
 
-Paper revision is not “make the answer stronger.”
+For normal use, read only that file. The other folders contain expanded notes and templates and should be loaded only when needed.
 
-A good revision should:
+## What this skill is for
 
-1. recover what the original submission actually claimed, did, and reported;
-2. identify the reviewer’s real concern rather than reacting to surface wording;
-3. make the smallest sufficient change that closes that concern;
-4. preserve provenance: distinguish original evidence, new revision evidence, corrected description, and new interpretation;
-5. ask whether the revision itself creates a new question or contradiction;
-6. keep manuscript, response letter, figures, tables, supplementary video, and submission metadata on the same factual story.
+Use it when you have:
+- an original manuscript;
+- editor/reviewer comments;
+- a revised manuscript;
+- a response letter;
+- new experiments / figures / supplementary material.
 
-This principle grew out of a real robotics-paper revision workflow, but the repository is generalized for any scientific field.
+It helps answer the questions that actually matter during revision:
 
-## Repository structure
+- What is the reviewer really worried about?
+- Is the requested change actually necessary?
+- Is this evidence old or genuinely revision-new?
+- Does the response fully close the concern?
+- Does the fix create a new question?
+- Do manuscript, response, figures, tables, and video tell the same story?
+- When should we stop revising?
 
-```text
-.
-├── README.md
-├── SKILL.md
-├── AGENTS.md
-├── principles/
-│   ├── revision-six-questions.md
-│   ├── evidence-discipline.md
-│   └── decision-priorities.md
-├── workflows/
-│   ├── reviewer-response.md
-│   ├── revision-audit.md
-│   └── final-submission.md
-├── checklists/
-│   ├── reviewer-closure.md
-│   ├── provenance.md
-│   ├── terminology-freeze.md
-│   └── cross-artifact-consistency.md
-└── templates/
-    ├── reviewer-response-matrix.md
-    └── final-audit-report.md
-```
+## Core rule
 
-## Recommended use
+> Preserve the truth of the original submission, identify the reviewer’s real concern, make the minimum sufficient change that closes it, test whether the change creates a new problem, and keep every artifact consistent.
 
-For a revision, provide at minimum:
+## Why the skill is intentionally short
 
-- original manuscript;
-- complete editor/reviewer comments;
-- current revised manuscript;
-- response letter;
-- any new tables, figures, supplementary video, or experiment notes.
+Revision work becomes worse when the workflow itself becomes heavy.
 
-Then ask the agent to run the workflow in `workflows/revision-audit.md`.
+The skill therefore avoids:
+- mandatory long checklists;
+- unnecessary experiment generation;
+- exhaustive weakness hunting;
+- loading every supporting file for every task.
 
-For a near-final submission, run `workflows/final-submission.md`.
+Expanded checklists/templates remain in the repository as optional references.
 
-## Design philosophy
+## Repository
 
-The workflow prioritizes information gain, reviewer decision impact, and factual consistency over exhaustiveness. It is deliberately skeptical of:
-
-- adding experiments that do not change any conclusion;
-- defensive caveats that create new reviewer attack surfaces;
-- rewriting historical provenance during revision;
-- baseline proliferation;
-- terminology drift across manuscript / figures / response / video;
-- local polishing when the paper’s central claim-evidence chain is still weak.
+- `SKILL.md` — **default revision skill**
+- `AGENTS.md` — minimal execution rule
+- `principles/` — optional expanded reasoning notes
+- `workflows/` — optional detailed workflows
+- `checklists/` — optional final-audit checklists
+- `templates/` — response/audit templates
 
 ## Status
 
-Initial version. The skill will evolve from real paper-review and revision cases.
+Revision skill v1, distilled from real reviewer-response and final-submission work.
