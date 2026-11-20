@@ -10,12 +10,12 @@ For each actionable reviewer comment:
 - [ ] Revision-new vs original evidence classified
 - [ ] Direct answer appears early
 - [ ] Strongest evidence included
-- [ ] Manuscript changed where claimed
-- [ ] Location of changes correct
+- [ ] Any claimed changes are present in the manuscript
+- [ ] The cited location addresses the concern, including when the text already did so
 - [ ] Claim no stronger than evidence
 - [ ] No unnecessary weakness introduced
 - [ ] No new factual/provenance question created
 - [ ] Related comments answered consistently
 - [ ] Final status: closed / partially closed / open
 
-A major concern is closed only when a skeptical reviewer can find the answer, evidence, and manuscript change without inferring a missing link.
+A major concern is closed when a skeptical reviewer can find the answer, evidence, and supporting manuscript passage without inferring a missing link.
