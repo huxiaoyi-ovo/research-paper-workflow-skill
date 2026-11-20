@@ -16,16 +16,19 @@ If positive/descriptive comments are omitted, explain why numbering may be non-c
 | Evidence available | What evidence already exists? |
 | Action type | Clarify / edit / analyze / experiment / narrow scope |
 | New work? | Is this revision-new? |
-| Manuscript change | What exactly changes? |
+| Manuscript state | What changed, or what already addresses the concern? |
 | Response claim | What can we safely say? |
 | New-question risk | Could this answer create another concern? |
-| Closure status | Open / partial / closed |
+| Location | Where can the reviewer verify the answer in the revised manuscript? |
+| Closure status | Open / partial / closed / not actionable |
 
 ## Step 3 — answer in the right order
 1. direct answer;
 2. strongest evidence;
-3. manuscript change;
+3. manuscript state;
 4. location.
+
+If the manuscript already contains the answer, cite its location and record that the text was unchanged. If a necessary explanation is missing, add it to the manuscript before closing the concern.
 
 ## Step 4 — calibrate tone
 Do not over-defend. If evidence is sufficient, state it and stop.
