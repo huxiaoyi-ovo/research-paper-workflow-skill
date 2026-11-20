@@ -1,7 +1,7 @@
 # Final Submission Audit
 
 ## Executive judgment
-State whether any A-level issue remains, whether any reviewer major concern remains open, and whether the package is ready after minor fixes.
+State whether any decision-critical A/B issue remains, whether all major reviewer concerns have a direct answer, and whether the package is ready.
 
 ## Reviewer numbering and order
 ### Associate Editor
@@ -21,6 +21,9 @@ Status:
 | Concern | Status | Evidence | Remaining risk |
 |---|---|---|---|
 | | | | |
+
+## Scientific interpretation
+Record the main finding, the strongest supporting comparison, and any essential explanation missing from the manuscript when read without the response letter.
 
 ## Provenance audit
 

@@ -20,16 +20,15 @@ Check central claim, contribution, protocol, baseline fairness, metrics, experim
 ## Pass 2 — reviewer closure audit
 For every actionable comment check mapping, concern, evidence, manuscript change, over-defensiveness, and new-question risk.
 
-## Pass 3 — provenance audit
-Audit verbs such as added, repeated, extended, clarified, corrected, replaced.
+## Pass 3 — scientific interpretation audit
+Check what each major experiment teaches, which result supports that interpretation, and whether the manuscript itself explains it. Distinguish controlled interventions from separately trained comparisons. Calibrate causal claims to the mechanisms the experiment actually isolates.
 
-## Pass 4 — terminology freeze
-Create canonical names for method, baselines, modules, variables, maps, metrics, layouts, and conditions. Search all artifacts for stale terms.
-
-## Pass 5 — cross-artifact audit
+## Pass 4 — cross-artifact audit
 Compare clean manuscript, highlighted manuscript, response, figure text, table labels, supplementary video, and supplementary text.
 
-## Pass 6 — final risk test
-Run the six questions on every last-minute change.
+Audit provenance verbs such as added, repeated, extended, clarified, corrected, and replaced. Create canonical names for methods, baselines, modules, variables, maps, metrics, layouts, and conditions. Search all artifacts for stale terms.
 
-If no A/B issue remains, freeze science.
+## Before freezing
+Read Results, Discussion, and Conclusion without referring to the reviewer reports or response letter. Trace the central finding, trade-offs, and operating boundaries to evidence in the manuscript. Fix any essential explanation that the manuscript leaves to the response letter.
+
+Run the six questions on every last-minute change. Freeze the science once the major concerns are directly answered, the manuscript is self-sufficient, the artifacts agree, and no decision-critical A/B issues remain.
