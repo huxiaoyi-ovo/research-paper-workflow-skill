@@ -8,6 +8,21 @@ The current repository deliberately focuses on **peer-review revision first**. T
 
 For normal use, read only that file. The other folders contain expanded notes and templates and should be loaded only when needed.
 
+## Use in Codex CLI
+
+Use the name declared in `SKILL.md` when cloning into Codex's user skills
+directory.
+
+```sh
+mkdir -p ~/.agents/skills
+git clone https://github.com/huxiaoyi-ovo/research-paper-workflow-skill.git \
+  ~/.agents/skills/scientific-paper-revision
+```
+
+Invoke it with `$scientific-paper-revision`. Keep the supporting folders
+alongside `SKILL.md` so Codex can open them when needed. See the
+[Codex skill discovery documentation](https://learn.chatgpt.com/docs/build-skills#where-codex-loads-local-skills).
+
 ## What this skill is for
 
 Use it when you have:
