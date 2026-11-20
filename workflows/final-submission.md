@@ -1,7 +1,7 @@
 # Final Submission Workflow
 
 ## 1. Scientific freeze
-Confirm no unresolved A-level issue and no major reviewer concern remains open.
+Confirm that no decision-critical A/B issue remains and that all major reviewer concerns have a direct answer. Read Results, Discussion, and Conclusion without the response letter to verify that the evidence and interpretation stand on their own.
 
 ## 2. Package consistency
 Compare clean manuscript, response letter, highlighted manuscript, figures/tables, supplementary video, and supplementary files.
