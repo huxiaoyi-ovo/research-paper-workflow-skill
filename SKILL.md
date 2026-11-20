@@ -13,6 +13,12 @@ The goal is:
 
 Do **not** preload other repository files unless a task specifically needs a template or expanded checklist. This file is the default workflow.
 
+Open a supporting file when the task requires it.
+
+- Build or audit a response letter with the [reviewer response workflow](workflows/reviewer-response.md) and [response matrix](templates/reviewer-response-matrix.md).
+- Run a detailed revision review with the [revision audit](workflows/revision-audit.md). Use the [provenance checklist](checklists/provenance.md) when the history of a result is unclear.
+- Prepare a submission package with the [final submission workflow](workflows/final-submission.md) and [audit report template](templates/final-audit-report.md).
+
 ## 1. Work from both sides of the review process
 
 ### Author viewpoint
