@@ -16,6 +16,8 @@ For each actionable reviewer comment:
 - [ ] No unnecessary weakness introduced
 - [ ] No new factual/provenance question created
 - [ ] Related comments answered consistently
-- [ ] Final status: closed / partially closed / open
+- [ ] Final status: closed / partial / open / not actionable
+
+Use the status definitions in the [response matrix](../templates/reviewer-response-matrix.md). Do not mark an actionable concern as not actionable merely because the requested experiment is unnecessary; explain the alternative evidence or scope decision instead.
 
 A major concern is closed when a skeptical reviewer can find the answer, evidence, and supporting manuscript passage without inferring a missing link.
