@@ -5,6 +5,7 @@ For every major result or revision claim:
 - [ ] Already in original submission?
 - [ ] Genuinely new revision work?
 - [ ] Presentation-only change?
+- [ ] Is a post-hoc analysis clearly identified as such rather than presented as a prospectively planned test?
 - [ ] New interpretation?
 - [ ] Corrected factual description?
 - [ ] Old or newly generated numbers?
