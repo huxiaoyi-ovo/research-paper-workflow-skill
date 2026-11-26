@@ -18,4 +18,6 @@ For every major result or revision claim:
 
 For every result classified as new or corrected, record the source artifact (raw data, run ID, or analysis output), the configuration or analysis script, and the manuscript version in which the result first appeared. If provenance cannot be verified, mark it unverified rather than assuming it is new.
 
+When a numerical result is corrected, record whether the underlying data changed or only its computation or transcription changed. Trace the correction to dependent tables, plots, and claims.
+
 Audit every occurrence of: “we added”, “we repeated”, “we reran”, “we introduced”, “we removed overlap”, “new held-out”, “new test environment”, “we corrected”.
