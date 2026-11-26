@@ -19,6 +19,6 @@ Check comment order, numbering, omitted-positive-comment explanation, wording pr
 Check terminology, experiment role labels, playback speed, result tables, old variable names, README/Summary.
 
 ## 7. Upload verification
-After upload, download submitted files from the portal and inspect them again.
+After upload, confirm the portal lists the intended file types and final filenames. When the portal allows downloads, retrieve the submitted files and compare them with the local final versions; use checksums if the portal preserves the original bytes. If downloads are unavailable or the portal transforms the files, record that limitation and verify the portal preview or receipt instead. Never report a download check as completed when it was not possible.
 
 Then stop.
