@@ -22,6 +22,8 @@ Do not write levels 3–5 as level 1.
 
 Use verbs that match history: clarify, add, extend, correct, reinterpret, replace.
 
+Do not encode missing or invalid observations as zero outcomes unless the metric definition explicitly requires that treatment. Report the reason for missingness and its effect on the analysis.
+
 ## Claim-evidence matching
 
 For each important claim, write:
