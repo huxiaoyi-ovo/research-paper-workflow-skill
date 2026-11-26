@@ -35,5 +35,7 @@ When reviewers request incompatible changes, identify the conflict, follow expli
 ## Step 4 — calibrate tone
 Do not over-defend. If evidence is sufficient, state it and stop.
 
+Check the venue's response length and file-format limits before finalizing, and preserve traceability to the original comments if the reply must be shortened.
+
 ## Step 5 — verify against manuscript
 Every “we revised / added / clarified” statement must be true in the final manuscript.
