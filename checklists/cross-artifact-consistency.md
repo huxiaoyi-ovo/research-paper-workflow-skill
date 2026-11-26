@@ -1,5 +1,7 @@
 # Cross-Artifact Consistency Checklist
 
+Record the filename or revision ID of each artifact before filling in the table; avoid comparing a current manuscript with a stale response or figure.
+
 | Fact | Manuscript | Response | Figure/Table | Video | Consistent? |
 |---|---|---|---|---|---|
 | Method name | | | | | |
