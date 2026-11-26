@@ -14,6 +14,8 @@ Recommended:
 - experiment records;
 - relevant code/logs.
 
+If a required input is unavailable, state which audit passes are limited by its absence. Do not mark those checks as passed solely from the available revision.
+
 ## Pass 1 — scientific truth audit
 Check central claim, contribution, protocol, baseline fairness, metrics, experiment counts, numbers, provenance, and claim scope.
 
