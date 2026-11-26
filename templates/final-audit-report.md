@@ -57,5 +57,7 @@ Check manuscript / response / diff / figures / video.
 
 List any unavailable source, unchecked artifact, or portal limitation, the resulting uncertainty, and the next verification step if it affects the submission decision.
 
+For each outstanding decision-critical issue, identify the specific action needed and whether it requires author judgment or further evidence.
+
 ## Stop condition
 If only C/D issues remain, stop modifying science.
