@@ -9,6 +9,8 @@ If a single reviewer comment contains multiple independent concerns, use subrows
 
 When multiple reviewers raise the same concern, cross-reference the shared evidence or manuscript change while retaining a direct answer under each original comment.
 
+For each evidence entry, include the source artifact or analysis identifier needed to verify it independently of the response summary.
+
 ## Status vocabulary
 
 - **Open** — concern not yet answered.
