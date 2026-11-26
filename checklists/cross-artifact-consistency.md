@@ -12,6 +12,7 @@ Record the filename or revision ID of each artifact before filling in the table;
 | Baseline settings / comparison conditions | | | | | |
 | Sample/trial count | | | | | |
 | Training budget | | | | | |
+| Randomization / seed protocol | | | | | |
 | Metric definition | | | | | |
 | Metric denominator / aggregation | | | | | |
 | Map terminology | | | | | |
