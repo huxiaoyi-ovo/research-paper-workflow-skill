@@ -5,6 +5,7 @@ For each actionable reviewer comment:
 - [ ] Correct reviewer/comment ID
 - [ ] Correct original order
 - [ ] Faithful original wording
+- [ ] Reviewer-supplied citations and references checked against the actual sources before accepting their characterization
 - [ ] Underlying concern identified
 - [ ] Original-manuscript state verified
 - [ ] Revision-new vs original evidence classified
