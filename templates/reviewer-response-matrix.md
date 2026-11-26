@@ -11,6 +11,8 @@ When multiple reviewers raise the same concern, cross-reference the shared evide
 
 For each evidence entry, include the source artifact or analysis identifier needed to verify it independently of the response summary.
 
+Reopen a previously closed concern if a later edit removes or contradicts the evidence or manuscript passage supporting its closure.
+
 ## Status vocabulary
 
 - **Open** — concern not yet answered.
