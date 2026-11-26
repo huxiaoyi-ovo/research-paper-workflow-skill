@@ -25,7 +25,7 @@ Check central claim, contribution, protocol, baseline fairness, metrics, experim
 For every actionable comment check mapping, concern, evidence, manuscript change, over-defensiveness, and new-question risk.
 
 ## Pass 3 — scientific interpretation audit
-Check what each major experiment teaches, which result supports that interpretation, and whether the manuscript itself explains it. Distinguish controlled interventions from separately trained comparisons. Calibrate causal claims to the mechanisms the experiment actually isolates.
+Check what each major experiment teaches, which result supports that interpretation, and whether the manuscript itself explains it. Distinguish controlled interventions from separately trained comparisons. Calibrate causal claims to the mechanisms the experiment actually isolates. Check whether reported uncertainty supports claims about the ordering of close-performing methods.
 
 ## Pass 4 — cross-artifact audit
 Compare clean manuscript, highlighted manuscript, response, figure text, table labels, supplementary video, and supplementary text.
