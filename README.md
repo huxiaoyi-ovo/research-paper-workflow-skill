@@ -54,7 +54,7 @@ It helps answer the questions that actually matter during revision:
 
 ## Prepare a revision handoff
 
-Keep the original submission read-only and store the current revision, response letter, and reviewer comments as separately versioned files. For each new experiment, retain the configuration, raw results, and the script or command used to generate the reported figure or table. Record which revision introduced each result. This makes the final provenance audit reproducible and prevents old evidence from being mistaken for new revision work.
+Keep the original submission read-only and store the current revision, response letter, and reviewer comments as separately versioned files. For each new experiment, retain the configuration, raw results, and the script or command used to generate the reported figure or table. Record which revision introduced each result. For consequential scientific changes, retain a short note identifying the reviewer concern or evidence that motivated the change. This makes the final provenance audit reproducible and prevents old evidence from being mistaken for new revision work.
 
 ## Core rule
 
