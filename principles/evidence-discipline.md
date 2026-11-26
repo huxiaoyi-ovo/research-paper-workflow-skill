@@ -30,4 +30,6 @@ For each important claim, write:
 
 If the evidence only supports tested conditions, say tested conditions.
 
+Repeated runs under the same conditions estimate repeatability; they do not by themselves establish generalization to new conditions.
+
 A nonsignificant or inconclusive result does not establish equivalence. Report the effect estimate and its uncertainty before making a no-effect claim.
