@@ -14,6 +14,8 @@ Examples: speculative attacks outside scope.
 
 Surface A and important B issues. Avoid flooding the revision with C/D tasks.
 
+When assessing baseline fairness, distinguish equal resource budgets from equivalent access to information and tuning opportunities. Use the comparison conditions relevant to the claim.
+
 ## Experiment priority rule
 
 A proposed experiment is high value if different outcomes lead to different manuscript decisions.
