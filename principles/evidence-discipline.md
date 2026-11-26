@@ -26,7 +26,7 @@ Use verbs that match history: clarify, add, extend, correct, reinterpret, replac
 
 For each important claim, write:
 
-> Claim → evidence → scope → unresolved alternative.
+> Claim → evidence (with source location) → scope → unresolved alternative.
 
 If the evidence only supports tested conditions, say tested conditions.
 
