@@ -42,6 +42,10 @@ It helps answer the questions that actually matter during revision:
 - Do manuscript, response, figures, tables, and video tell the same story?
 - When should we stop revising?
 
+## Prepare a revision handoff
+
+Keep the original submission read-only and store the current revision, response letter, and reviewer comments as separately versioned files. For each new experiment, retain the configuration, raw results, and the script or command used to generate the reported figure or table. Record which revision introduced each result. This makes the final provenance audit reproducible and prevents old evidence from being mistaken for new revision work.
+
 ## Core rule
 
 > Preserve the truth of the original submission, identify the reviewer’s real concern, make the minimum sufficient change that closes it, test whether the change creates a new problem, and keep every artifact consistent.
