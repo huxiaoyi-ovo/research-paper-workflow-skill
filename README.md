@@ -23,6 +23,16 @@ Invoke it with `$scientific-paper-revision`. Keep the supporting folders
 alongside `SKILL.md` so Codex can open them when needed. See the
 [Codex skill discovery documentation](https://learn.chatgpt.com/docs/build-skills#where-codex-loads-local-skills).
 
+## Update the installed skill
+
+If you installed the skill using the clone command above, update it before starting a new revision cycle:
+
+```sh
+git -C ~/.agents/skills/scientific-paper-revision pull --ff-only
+```
+
+If the local checkout contains changes, review them before updating. Keep the skill version stable throughout an active revision cycle so that changes to the workflow do not silently change the audit criteria.
+
 ## What this skill is for
 
 Use it when you have:
