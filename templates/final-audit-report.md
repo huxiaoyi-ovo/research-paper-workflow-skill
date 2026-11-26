@@ -33,9 +33,9 @@ Record the main finding, the strongest supporting comparison, and any essential 
 
 ## Numerical invariants
 
-| Quantity | Final value | Locations checked |
-|---|---:|---|
-| | | |
+| Quantity | Final value | Unit / denominator | Locations checked |
+|---|---:|---|---|
+| | | | |
 
 ## Terminology freeze
 List canonical names and remaining stale terms.
