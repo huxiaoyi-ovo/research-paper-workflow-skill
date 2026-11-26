@@ -28,6 +28,8 @@ Ask whether the revision could make the reviewer wonder:
 ## 6. Do all artifacts tell the same story?
 Check clean manuscript, highlighted manuscript, response letter, tables, plots, figure legends, supplementary video, supplementary text, and submission metadata.
 
+After scientific freeze, reopen a substantive change only when new evidence, a factual error, or an explicit editor request justifies it. Recheck the affected artifacts before freezing again.
+
 ## Compact rule
 
 > Original truth → reviewer concern → minimum sufficient fix → new-question test → cross-artifact consistency.
