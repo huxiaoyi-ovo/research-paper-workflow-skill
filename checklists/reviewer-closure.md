@@ -12,6 +12,7 @@ For each actionable reviewer comment:
 - [ ] Direct answer appears early
 - [ ] Strongest evidence included
 - [ ] Any claimed changes are present in the manuscript
+- [ ] Section, figure, table, and page or line references match the final submitted version
 - [ ] The cited location addresses the concern, including when the text already did so
 - [ ] Claim no stronger than evidence
 - [ ] No unnecessary weakness introduced
