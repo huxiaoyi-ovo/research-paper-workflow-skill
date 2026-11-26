@@ -70,7 +70,7 @@ The skill therefore avoids:
 - exhaustive weakness hunting;
 - loading every supporting file for every task.
 
-Expanded checklists/templates remain in the repository as optional references.
+Expanded checklists/templates remain in the repository as optional references: use the [response matrix](templates/reviewer-response-matrix.md) during rebuttal, the [revision audit](workflows/revision-audit.md) before freeze, and the [final submission workflow](workflows/final-submission.md) for packaging.
 
 ## Repository
 
