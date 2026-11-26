@@ -31,7 +31,7 @@ If you installed the skill using the clone command above, update it before start
 git -C ~/.agents/skills/scientific-paper-revision pull --ff-only
 ```
 
-If the local checkout contains changes, review them before updating. Keep the skill version stable throughout an active revision cycle so that changes to the workflow do not silently change the audit criteria.
+If the local checkout contains changes, review them before updating. Keep the skill version stable throughout an active revision cycle so that changes to the workflow do not silently change the audit criteria. To record the version used for a report, run `git -C ~/.agents/skills/scientific-paper-revision rev-parse HEAD`.
 
 ## What this skill is for
 
