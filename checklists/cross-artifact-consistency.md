@@ -12,6 +12,7 @@ Record the filename or revision ID of each artifact before filling in the table;
 | Sample/trial count | | | | | |
 | Training budget | | | | | |
 | Metric definition | | | | | |
+| Metric denominator / aggregation | | | | | |
 | Map terminology | | | | | |
 | Variable names | | | | | |
 | Scope/limitations | | | | | |
