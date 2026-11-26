@@ -18,4 +18,6 @@ Search manuscript prose, equations, tables, plot legends, figure-internal UI lab
 
 Record the corresponding mathematical symbol and unit for each quantity when applicable; an identical label with a different unit is not a consistent term.
 
+Verify that abbreviations are defined at first use in each standalone artifact when required by the venue.
+
 Do not replace stale terms inside verbatim reviewer quotations.
