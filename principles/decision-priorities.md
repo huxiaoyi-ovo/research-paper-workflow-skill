@@ -19,3 +19,5 @@ Surface A and important B issues. Avoid flooding the revision with C/D tasks.
 A proposed experiment is high value if different outcomes lead to different manuscript decisions.
 
 If every possible result leaves the argument unchanged, it is low-information work.
+
+Rank decision impact separately from feasibility. A high-impact but impractical experiment may require a narrower claim or a defensible alternative test.
