@@ -1,7 +1,7 @@
 # Reviewer Response Workflow
 
 ## Step 1 — reconstruct the review exactly
-Preserve original order, wording, categories, and supplied references.
+Preserve original order, wording, categories, and supplied references. Keep verbatim quotations visually distinct from author paraphrases; do not silently correct substantive wording or notation inside a quote.
 
 If positive/descriptive comments are omitted, explain why numbering may be non-consecutive.
 
