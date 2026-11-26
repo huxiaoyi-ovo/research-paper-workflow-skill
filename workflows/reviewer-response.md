@@ -30,6 +30,8 @@ If positive/descriptive comments are omitted, explain why numbering may be non-c
 
 If the manuscript already contains the answer, cite its location and record that the text was unchanged. If a necessary explanation is missing, add it to the manuscript before closing the concern.
 
+When reviewers request incompatible changes, identify the conflict, follow explicit editor instructions, and explain the same scientific rationale consistently in both replies.
+
 ## Step 4 — calibrate tone
 Do not over-defend. If evidence is sufficient, state it and stop.
 
