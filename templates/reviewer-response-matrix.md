@@ -7,6 +7,8 @@
 
 If a single reviewer comment contains multiple independent concerns, use subrows (for example, R1.1a and R1.1b) while preserving the original comment identifier and wording. Close the parent only after its actionable subconcerns are resolved.
 
+When multiple reviewers raise the same concern, cross-reference the shared evidence or manuscript change while retaining a direct answer under each original comment.
+
 ## Status vocabulary
 
 - **Open** — concern not yet answered.
