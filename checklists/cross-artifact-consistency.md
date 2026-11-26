@@ -9,6 +9,7 @@ Record the filename or revision ID of each artifact before filling in the table;
 | Training distribution | | | | | |
 | Main success rate | | | | | |
 | Baseline result | | | | | |
+| Baseline settings / comparison conditions | | | | | |
 | Sample/trial count | | | | | |
 | Training budget | | | | | |
 | Metric definition | | | | | |
