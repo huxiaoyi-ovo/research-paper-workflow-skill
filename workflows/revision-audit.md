@@ -16,6 +16,8 @@ Recommended:
 
 If a required input is unavailable, state which audit passes are limited by its absence. Do not mark those checks as passed solely from the available revision.
 
+Record the scope and revision identifiers of the artifacts actually inspected so that a later reader can distinguish a full audit from a focused check.
+
 ## Pass 1 — scientific truth audit
 Check central claim, contribution, protocol, baseline fairness, metrics, experiment counts, numbers, provenance, and claim scope.
 
