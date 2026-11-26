@@ -22,4 +22,6 @@ For each actionable reviewer comment:
 
 Use the status definitions in the [response matrix](../templates/reviewer-response-matrix.md). Do not mark an actionable concern as not actionable merely because the requested experiment is unnecessary; explain the alternative evidence or scope decision instead.
 
+If decisive evidence is unavailable, record the missing source and retain an open or partial status rather than inferring closure.
+
 A major concern is closed when a skeptical reviewer can find the answer, evidence, and supporting manuscript passage without inferring a missing link.
