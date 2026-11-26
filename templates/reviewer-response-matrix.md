@@ -5,6 +5,8 @@
 | AE.1 | | | | | | | | | | | |
 | R1.1 | | | | | | | | | | | |
 
+If a single reviewer comment contains multiple independent concerns, use subrows (for example, R1.1a and R1.1b) while preserving the original comment identifier and wording. Close the parent only after its actionable subconcerns are resolved.
+
 ## Status vocabulary
 
 - **Open** — concern not yet answered.
