@@ -28,7 +28,7 @@ If positive/descriptive comments are omitted, explain why numbering may be non-c
 3. manuscript state;
 4. location.
 
-If the manuscript already contains the answer, cite its location and record that the text was unchanged. If a necessary explanation is missing, add it to the manuscript before closing the concern.
+If the manuscript already contains the answer, cite its location and record that the text was unchanged. When declining a suggested change, give the scientific reason and explain how the underlying concern is addressed. If a necessary explanation is missing, add it to the manuscript before closing the concern.
 
 When reviewers request incompatible changes, identify the conflict, follow explicit editor instructions, and explain the same scientific rationale consistently in both replies.
 
