@@ -31,4 +31,4 @@ Label accurately when useful:
 - hardware demonstration;
 - representative trace.
 
-Playback-rate labels must be truthful and visible.
+Playback-rate labels must be truthful and visible. If a montage omits time or combines separate trials, label the discontinuity rather than presenting it as a continuous run.
