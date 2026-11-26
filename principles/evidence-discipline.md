@@ -29,3 +29,5 @@ For each important claim, write:
 > Claim → evidence → scope → unresolved alternative.
 
 If the evidence only supports tested conditions, say tested conditions.
+
+A nonsignificant or inconclusive result does not establish equivalence. Report the effect estimate and its uncertainty before making a no-effect claim.
