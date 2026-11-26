@@ -22,6 +22,8 @@ Check terminology, experiment role labels, playback speed, result tables, old va
 
 Check that every supplementary item cited in the manuscript has a matching file and that its number, filename, and description are consistent.
 
+For linked supplementary resources, check that the intended audience can access the correct version without relying on an author's private login.
+
 ## 7. Upload verification
 After upload, confirm the portal lists the intended file types and final filenames. When the portal allows downloads, retrieve the submitted files and compare them with the local final versions; use checksums if the portal preserves the original bytes. If downloads are unavailable or the portal transforms the files, record that limitation and verify the portal preview or receipt instead. Never report a download check as completed when it was not possible.
 
