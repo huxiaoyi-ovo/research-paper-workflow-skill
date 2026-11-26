@@ -14,6 +14,8 @@
 | Variable names | | | | | |
 | Scope/limitations | | | | | |
 
+Use `N/A` for an artifact that genuinely does not apply and `Unverified` for an artifact that has not been inspected. Neither is equivalent to a verified match.
+
 ## Special video rule
 
 A video clip must not imply a different experimental role than it actually has.
