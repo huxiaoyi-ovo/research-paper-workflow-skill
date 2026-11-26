@@ -12,6 +12,7 @@ For every major result or revision claim:
 - [ ] Could reviewer mistakenly think data were rerun/replaced?
 - [ ] Does unchanged data make sense given the stated revision?
 - [ ] Are train / validation / test roles explicit?
+- [ ] Are planned, completed, excluded, and analyzed trials distinguished where their counts differ?
 
 For every result classified as new or corrected, record the source artifact (raw data, run ID, or analysis output), the configuration or analysis script, and the manuscript version in which the result first appeared. If provenance cannot be verified, mark it unverified rather than assuming it is new.
 
