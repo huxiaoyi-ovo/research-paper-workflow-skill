@@ -53,5 +53,9 @@ Check manuscript / response / diff / figures / video.
 - [ ] Video labels correct
 - [ ] Final portal downloads verified
 
+## Unverified items
+
+List any unavailable source, unchecked artifact, or portal limitation, the resulting uncertainty, and the next verification step if it affects the submission decision.
+
 ## Stop condition
 If only C/D issues remain, stop modifying science.
