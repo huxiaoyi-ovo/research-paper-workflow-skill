@@ -9,6 +9,8 @@ Compare clean manuscript, response letter, highlighted manuscript, figures/table
 ## 3. Terminology freeze
 Search for old method names, variables, plot legends, map labels, and stale video overlays.
 
+Check the portal metadata against the final manuscript: title, abstract, author order and affiliations, keywords, funding information, and disclosures as applicable.
+
 ## 4. PDF preflight
 Check page count, paper size, file size, embedded fonts, missing refs/figures, anonymity, figure readability, and clean-vs-diff scientific identity.
 
