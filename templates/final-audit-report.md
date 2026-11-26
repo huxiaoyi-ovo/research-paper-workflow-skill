@@ -48,7 +48,7 @@ Check manuscript / response / diff / figures / video.
 - [ ] File size
 - [ ] Fonts embedded
 - [ ] No undefined refs
-- [ ] Anonymous metadata correct
+- [ ] Anonymity and author metadata match the venue's review and submission requirements
 - [ ] Response+diff structure correct
 - [ ] Video labels correct
 - [ ] Final portal downloads verified
